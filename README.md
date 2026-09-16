@@ -10,11 +10,14 @@ Desenvolver um Guia Prático de Revisão: Consolidar resumos estruturados, um gl
 
 # Fontes
 Fonte 1: https://www.moneytimes.com.br/robert-kiyosaki-4-licoes-que-eu-aprendi-com-o-meu-pai-rico/
+
 Fonte 2: https://www.infomoney.com.br/onde-investir/as-dicas-de-robert-kiyosaki-para-voce-viver-de-renda/
+
 Fonte 3: https://penguinlivros.pt/wp-content/uploads/2025/04/Pai_Rico_Pai_Pobre_Guia_para_Investir_excertosite.pdf?srsltid=AU7gw4Vqgo5ZdHKlJY2L0xtj3MPgJjAA9rKO0CHBbBzlwYBHTsnNQkS7
 
 # Engenharia de Prompts e "Cicatrizes"
 Tentativa 1:
+
 Prompt: "Me diga tudo o que Robert Kiyosaki ensina sobre dinheiro."
 
 Resposta Obtida: Uma resposta muito ampla, focada apenas em frases de efeito 
@@ -24,6 +27,7 @@ Dificuldade: A IA tendeu a generalizar utilizando senso comum da internet em vez
 Ajuste: Foi necessário restringir o escopo do prompt exigindo a base conceitual das fontes do caderno.
 
 Tentativa 2:
+
 Prompt: "Com base nas fontes, explique a diferença entre ativo e passivo segundo Robert Kiyosaki e dê exemplos práticos de cada um mencionados nos textos."
 
 Resposta Obtida: A IA listou corretamente ativos e passivos, mas focou em exemplos teóricos genéricos, sem detalhar a distinção crítica do fluxo de caixa.
@@ -33,6 +37,7 @@ Dificuldade: Falta de ênfase na definição do fluxo de caixa, que é o central
 Ajuste: Refinamos o comando para exigir a perspectiva do fluxo de caixa.
 
 Tentativa 3:
+
 Prompt: "Atuando como um mentor de finanças educacionais, defina o conceito de Inteligência Financeira e explique como o 'Quadrante do Fluxo de Caixa' afeta a liberdade financeira de um indivíduo, estruturando a resposta em tópicos claros."
 
 Resposta Obtida: A IA correlacionou perfeitamente os quadrantes (E, A, D, I).
@@ -41,16 +46,19 @@ Resposta Obtida: A IA correlacionou perfeitamente os quadrantes (E, A, D, I).
 A. Resumos Estruturados do Assunto:
 
 1. A Mentalidade: Pai Rico vs. Pai Pobre
+
 Pai Pobre: Representa a visão convencional de que se deve estudar muito para conseguir um emprego seguro, trabalhar por salário, gastar o que ganha e acumular dívidas na crença de que a estabilidade laboral é o único caminho.
 
 Pai Rico: Defende que os ricos não trabalham pelo dinheiro; eles fazem o dinheiro trabalhar para si. O foco reside na aquisição de conhecimento prático sobre negócios e investimentos, assumindo riscos calculados e gerindo o medo e a ganância.
 
 2. A Regra de Ouro: Ativos vs. Passivos
+
 Ativo: Tudo aquilo que coloca dinheiro no seu bolso, independentemente de você estar trabalhando ou não (ex: imóveis que geram renda de aluguel, ações pagadoras de dividendos, negócios próprios estruturados, propriedade intelectual).
 
 Passivo: Tudo aquilo que tira dinheiro do seu bolso e gera despesas contínuas (ex: financiamento de carro de uso pessoal, casa própria financiada considerada de forma isolada sem geração de caixa, dívidas de cartão de crédito).
 
 3. O Quadrante do Fluxo de Caixa
+
 O modelo divide as formas de gerar renda em quatro quadrantes:
 
 E (Empregado): Tem um emprego e trabalha para os outros. Busca segurança, mas troca tempo por dinheiro.
@@ -62,6 +70,7 @@ D (Dono de Negócio): Tem um sistema e pessoas trabalhando para ele. O negócio 
 I (Investidor): O dinheiro trabalha para gerar mais dinheiro. É o estágio máximo de alavancagem financeira.
 
 B. Glossário com os Principais Conceitos:
+
 Ativo: Item gerador de fluxo de caixa positivo; coloca dinheiro no bolso de forma recorrente.
 
 Passivo: Item gerador de despesas; consome recursos financeiros do indivíduo.
@@ -75,6 +84,7 @@ Quadrante do Fluxo de Caixa: Espectro visual criado por Kiyosaki para classifica
 Corrida dos Ratos : Ciclo vicioso em que o indivíduo trabalha para pagar contas, ganha um aumento, eleva seu padrão de vida, aumenta suas dívidas e continua preso ao emprego sem conseguir acumular riqueza real.
 
 C. Conjunto de Prompts Reutilizáveis: 
+
 Utilize os prompts abaixo diretamente no NotebookLM para revisitar e aprofundar os estudos sobre o tema:
 
 Revisão de Conceitos Básicos:
